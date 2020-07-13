@@ -1,7 +1,6 @@
-![App Brewery Banner](https://github.com/londonappbrewery/Images/blob/master/AppBreweryBanner.png)
 
 # Mi Card
-![End Banner]()
+![End Banner](images/IMG_20200713_202149.jpg)
 
 
 
