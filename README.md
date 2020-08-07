@@ -1,4 +1,4 @@
-## Flutter-Projects
+# Flutter-Projects💙
 
 
-These are some apps that I built when I began my journey as a Flutter Developer. 
+## This Repository contains a list of apps that I built during my journey as a Flutter Developer. 
